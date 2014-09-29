@@ -1,9 +1,0 @@
-# Mindset and DBC Culture
-#### Finding Your Way to Be
-#### 9/19/2014
-
-The culture surrounding Dev Bootcamp is one of infinite possibilities. You are constantly expected to exceed your limits not because you have to, but because you want to. This is a stark comparison to traditional education, as most people in this day and age feel so pressured to go to college that getting that piece of paper (a diploma that may or may not get you a decent job) is more important than actually learning anything worthwhile. While higher education is an admirable goal, the mindset that follows in its wake is hardly that of an institution that truly wants to teach people how to be successful both in and outside of the classroom. Dev bootcamp changes the game completely. 
-
-After watching the video with Shereef talking about the culture surrounding Dev Bootcamp, I felt as if all of the things I found worthwhile and important about education were strongly reinforced. Instead of focusing on tests to check for understanding, a culture of openness has been created to make people comfortable with being wrong. Instead of worrying about numbers and statistics, the program is more focused on making sure that people truly understand what they are learning and how it can be applied in to real-world development situations. This is a powerful program if I have ever seen one.
-
-I have been an advocate for learning for the majority of my life simply because having the knowledge to do great things both for yourself and others is one of the most empowering and wonderful experiences you can have. To be honest, Dev Bootcamp has exceeded my expectations so far. I am looking forward to being a part of the program not only because I want to learn, but because I feel that the message they are trying to portray is one of great importance in education.

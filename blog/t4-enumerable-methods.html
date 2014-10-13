@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kevin's Blog</title>
+	<link type="text/css" rel="stylesheet" href="blogcss.css">
+</head>
+<body>
+	<div id="header">
+		<div class="headtext">Kevin's Blog</div>
+		<div class="subhead">General Insight in to Coding and Web Development</div>
+	</div>
+	
+	<a href="http://rhoxio.github.io/blog/index.html"id="tab1">
+		<div class="navtext">Index</div>
+	</a>
+	<a href="https://github.com/Rhoxio"id="tab2">
+		<div class="navtext">GitHub</div>
+	</a>
+	<a href="http://devbootcamp.com/" id="tab3">
+		<div class="navtext">Dev Bootcamp</div>
+	</a>
+	
+	<div id="blogbox">
+		<div class="blogtext">The #map method is a good tool for when you need to add details in to arrays. For example, you can use #map to add a 5 to all of the elements in an array. All you do is call the method on the array and set the block to add it to the variable stated in the block.<br><br>
+
+		The syntax is fairly simple:<br><br>
+	
+		array=[1,2,3] <br>
+		array.map!{|x| x + 5} => [6, 7, 8]<br><br>
+
+		Remember that using #map! and #map are different. #map! returns the value in itself. It will destroy the original array and replace it with the array the block created. Using #map makes it non destructive, so it needs to be set to another variable of your choice. 
+	</div>
+
+	<div id="social-box">
+		<img src="https://avatars1.githubusercontent.com/u/8063041?v=2" class="avatar"/>
+		<h2>About Me</h2>
+		<p class="am-text">I am, well I used to be, a college student who has always had an insatiable drive to learn about the world. I am currently attending Dev Bootcamp to learn how to code and develop pretty much anything that my heart desires. That is all anyone can ever truly strive for, right? <br><br>-The links below are broken for the time being. I am working on updating all of my blog pages.-</p>
+		<a href="http://www.google.com">
+			<img class="button"src="http://img1.wikia.nocookie.net/__cb20120405060159/olympians/images/7/79/Google_icon_logo.png" />
+		</a>
+		<a href="http://www.google.com">
+			<img class="button"src="http://t2.gstatic.com/images?q=tbn:ANd9GcR1ysycDCSG_US4ZLZSyxxj4CfAta6Gysgt_drplki7fCvxGE8O" />
+		</a>
+		<a href="http://www.google.com">
+			<img class="button"src="http://t3.gstatic.com/images?q=tbn:ANd9GcT-ndpy0RDLIV0wZqgARWGXRxq_sk7URig21EB9yhziejC9VOQ_Nw" />
+		</a>
+
+	</div>
+
+</body>
+</html>

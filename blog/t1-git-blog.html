@@ -9,15 +9,11 @@
 		 </div>
 		<div id="blogcontainer">
 			<div class="blogback">
-				<p class="para">"For the most part, this has been a fairly insightful week. I have been asked to answer a few questions in this first blog, so I will do just that.<br>
-  
-  
-<b>What are the benefits of version control?</b> Version control has many different applications. The one that stands out in my mind is version controls ability to be flexible. If you decide that you needed a more basic version of some block of control code, you can go back in time and pull those pieces of code out and use them for different things. It basically allows you to write specialized code without worrying about messing other pieces up. <br>
-
-<b>How does git help you keep track of changes?</b> Git helps you control change by allowing you to "branch" off and make different versions of things very easily. It makes this process easy by making everything extremely easy to figure out as well as displaying pertinent information in logical places on GitHub. <br>
-
-
-<b>Why use GitHub to store your code?</b> GitHub allows you to collaborate much more easily than always sending emails, setting up archives, or simply copy-pasting blocks of code from stackoverflow or some other site. It allows people to be credited as a contributor, which alleviates some of the problems with copyright and licensing, as well as having an extremely efficient and powerful site to back up the entire creative process. 
+				<p class="para">Variable scope is an inherently important part of programming with Ruby. The scope of variables allows you to access data outside of simple local variables. You have the ability to set global variables, variables that can be called from anywhere in the program, but this is generally not recommended as it can cause serious problems because that also means that it can be accessed from anywhere in the program as well. It can cause naming issues and make it extremely hard to debug code if they are not used correctly.<br> <br>
+A more commonly used type of variable is the instance variable(@). This variable is unique in the fact that it can essentially be used to set a value that can be used throughout a class and other classes. It differs from a class variable (@@) in the fact that a class variable can only be used once inside of that class. For example, if we have two identical classes called Animal and one is labeled Dog and the other Cat, it makes sense to add a class variable @@Labrador to the Dog class, because the Cat class may need one named @@Tabby. On the other hand, you can set a variable called @legs for both and set it equal to 4. It is a way to differentiate certain attributes  within classes.<br><br> 
+If you want to have a value that can never change, you should be using a constant. Constants are denoted by hitting your caps lock key, essentially. All of the letters in the variable name need to be capital letters. They differ from global variables in that they cannot be changed once set unless you modify the code manually. 
+Overall, the scope of Ruby variables is a fundamental part of object oriented programming. Without it, we would have to set our local variables every time we wanted to write any block of code. Not only would that get old extremely fast, it would decimate the flexibility of code as we know it. 
+ <br><br> 
 
 				</p>
 			 </div>

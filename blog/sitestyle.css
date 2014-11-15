@@ -1,9 +1,9 @@
 #header {
 	position: relative;
-	width:1109px;
-	height: 70px;
-	margin-right: auto;
-	margin-left: auto;
+	width:65%;
+	height: 10%;
+	left:17%;
+	top:13%;
 	background-color: #4e9bc2;
 	border: 1px solid black;
 	box-shadow: 5px 10px 5px #888;
@@ -23,6 +23,8 @@
 }
 
 .maintitle{
+	text-shadow: 0 -2px 3px #111,0 3px 5px #666;
+	color:white;
 	position:relative;
 	font-size: 35px;
 	font-family: Helvetica;
@@ -42,8 +44,8 @@
 
 .aboutme {
 	position: absolute;
-	width:226px;
-	height:379px;
+	width:15%;
+	height:60%;
 	background-color: #feecde;
 	top:8px;
 	left:13px;
@@ -52,25 +54,29 @@
 
 .socialbox {
 	position: absolute;
-	width:226px;
-	height: 280px;
+	width:15%;
+	height:27%;
 	background-color: #abc8cb;
-	bottom:75px;
+	bottom: 8%;
 	left:13px;
 	border: 1px solid black;
+
 }
 
 .fb {
 	position:relative;
-	width:175px;
-	height:40px;
-	background-color: #b28a67;
+	width:95%;
+	height:20%;
+	
+	background-color: #4e9bc2;
 	z-index: 2;
+	
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 30px;
+	margin-top:2%;
+	
 	border: 1px solid black;
-	border-radius: 25px;
+	border-radius: 10px;
 	text-align: center;
 }
 
@@ -78,7 +84,7 @@
 	position:relative;
 	width:175px;
 	height:40px;
-	background-color: #b28a67;
+	background-color: #4e9bc2;
 	z-index: 2;
 	margin-right: auto;
 	margin-left: auto;
@@ -92,7 +98,7 @@
 	position:relative;
 	width:175px;
 	height:40px;
-	background-color: #b28a67;
+	background-color: #4e9bc2;
 	z-index: 2;
 	margin-right: auto;
 	margin-left: auto;
@@ -106,7 +112,7 @@
 	position:relative;
 	width:175px;
 	height:40px;
-	background-color: #b28a67;
+	background-color: #4e9bc2;
 	z-index: 2;
 	margin-right: auto;
 	margin-left: auto;
@@ -120,7 +126,7 @@
 	position:relative;
 	width:175px;
 	height:40px;
-	background-color: #b28a67;
+	background-color: #4e9bc2;
 	z-index: 2;
 	margin-right: auto;
 	margin-left: auto;
@@ -143,10 +149,10 @@
 
 #midcontainer {
 	position:absolute;
-	width: 1109px;
-	height: 582px;
+	width: 65%;
+	height: 80%;
 	background-color: #feecde;
-	left:245px;
+	left:17%;
 	top:13%;
 	border:1px solid black;
 	box-shadow: 10px 10px 5px #888;
@@ -154,8 +160,8 @@
 
 .box1{
 	display: inline-block;
-	height:564px;
-	width:360px;
+	height:95%;
+	width:32%;
 	background-color: #ddd;
 	margin-left:10px;
 	margin-top:10px;
@@ -163,8 +169,8 @@
 
 .box2{
 	display: inline-block;
-	height:564px;
-	width:360px;
+	height:95%;
+	width:32%;
 	background-color: #ddd;
 	margin-left:0px;
 	margin-top:10px;
@@ -172,17 +178,16 @@
 
 .box3{
 	display: inline-block;
-	height:564px;
-	width:360px;
+	height:95%;
+	width:32%;
 	background-color: #ddd;
 	margin-left:0;
 }
 
 .boxpic {
-	position:absolute;
-	width:340px;
-	height:250px;
-	background-color: black;
+	position:relative;
+	width:95%;
+	height:33%;
 	margin:10;
 }
 
@@ -191,8 +196,8 @@
 	position: absolute;
 	right:12px;
 	top:8px;
-	width: 226px;
-	height:673px;
+	width: 16%;
+	height:65%;
 	background-color: #abc8cb;
 	border: 1px solid black;
 }
@@ -202,6 +207,39 @@
 	width:340px;
 	height:250px;
 }
+
+.am-text {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: center;
+ 	font-family: Helvetica;
+ 	color:white;
+ 	font-size: 12px;
+
+ }
+
+.am-text2 {
+ 	display: inline-block;
+ 	margin:10px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: center;
+ 	font-family: Helvetica;
+ 	color:black;
+ 	font-size: 14px;
+
+ }
+
+ .right-title {
+ 	text-shadow: 0 -1px 1px #111,0 1px 1px #666;
+ 	font-family: Helvetica;
+ 	font-size: 16px;
+ 	color: #4e9bc2;
+ 	padding-top: 3%;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: center;
+ }
 
 
 
